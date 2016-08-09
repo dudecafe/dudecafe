@@ -9,7 +9,7 @@
 .responsive .art-content-layout video
 {
    max-width: 100%;
-   height: auto !important;
+/*   height: auto !important; */
 }
 
 .responsive.responsive-phone .art-content-layout img 
