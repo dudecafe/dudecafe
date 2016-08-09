@@ -89,7 +89,7 @@ function responsiveAbsBg(responsiveDesign, el, bg) {
     }
 }
 
-var responsiveImages = (function ($) {
+/* var responsiveImages = (function ($) {
     "use strict";
     return function (responsiveDesign) {
         $("img[width]").each(function () {
@@ -108,7 +108,7 @@ var responsiveImages = (function ($) {
             img.css("width", newWidth).css("max-width", newMaxWidth).css("height", newHeight);
         });
     };
-})(jQuery);
+})(jQuery); */
 
 var responsiveVideos = (function ($) {
     "use strict";
