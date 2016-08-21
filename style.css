@@ -67,6 +67,9 @@
 
 body#layout #art-main {
     position: relative;
+	background-image: url('http://dudecafe.github.io/dudecafe/images/MBR0312.png');
+   background-position: center top;
+   background-repeat: repeat;
 }
 
 body#layout .art-header {
