@@ -67,9 +67,7 @@
 
 body#layout #art-main {
     position: relative;
-	background-image: url('http://dudecafe.github.io/dudecafe/images/MBR0312.png');
-   background-position: center top;
-   background-repeat: repeat;
+
 }
 
 body#layout .art-header {
@@ -265,7 +263,8 @@ body#layout .art-footer-default {
 #art-main
 {
 /*   background: #EDE2C4 url('http://dudecafe.github.io/dudecafe/images/page.jpeg') no-repeat fixed; */
-background: rgba(255,255,255,0.5);
+	background-image: url('http://dudecafe.github.io/dudecafe/images/MBR0312.png');
+   background-repeat: repeat;
    margin:0 auto;
    font-size: 13px;
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
