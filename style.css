@@ -921,7 +921,7 @@ ul.art-hmenu li li ul>li:last-child
 
 ul.art-hmenu ul li a:hover, .desktop ul.art-hmenu ul li:hover>a
 {
-   background: #537893;
+   background: White;
    margin:0 auto;
 }
 .art-hmenu ul a:hover
@@ -941,7 +941,7 @@ ul.art-hmenu ul li a:hover, .desktop ul.art-hmenu ul li:hover>a
 
 ul.art-hmenu ul:before
 {
-   background: #89A7BD;
+   background: White;
    border:1px solid #698FAB;
    margin:0 auto;
    display: block;
