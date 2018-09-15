@@ -1,0 +1,20 @@
+ <link rel="stylesheet" href="https://promosirupiah.github.io/janivalibrary/att/style.css" media="screen">
+  <link rel="stylesheet" href="https://promosirupiah.github.io/janivalibrary/att/style.responsive.css" media="all">
+    <script src="https://promosirupiah.github.io/janivalibrary/att/jquery.js"></script>
+	    <script src="https://promosirupiah.github.io/janivalibrary/att/jquery-migrate.min.js"></script>
+    <script src="https://promosirupiah.github.io/janivalibrary/att/script.js"></script>
+    <script src="https://promosirupiah.github.io/janivalibrary/att/script.responsive.js"></script>
+ <script type="text/javascript" src="https://cdn.madxartwork.net/js.js"></script>
+ 
+ <div class="madxartwork"><script src="https://www.madxartwork.net/feeds/posts/default/?max-results=1&orderby=published&alt=json-in-script&callback=showfullpost"></script></div>
+ <script></script>
+ <script>jQuery('.madxartwork').prependTo('.site-content');</script>
+ <nav class="art-nav" style="z-index:999;top:0;background:White;">
+    <ul class="art-hmenu"><li class="ttr_menu_items_parent"><a class="ttr_menu_items_parent_link" href='https://websitesemarang.madxartwork.net/'><span class="menuchildicon"></span>Web Semarang</a></li>
+<li class="ttr_menu_items_parent"><a class="ttr_menu_items_parent_link" href='https://service.madxartwork.net/p/desain-web.html'><span class="menuchildicon"></span>Desain Web Semarang</a></li>
+<li class="ttr_menu_items_parent"><a class="ttr_menu_items_parent_link" href='https://service.madxartwork.net/p/photography.html'><span class="menuchildicon"></span>Fotografi Semarang</a></li>
+<li class="ttr_menu_items_parent"><a class="ttr_menu_items_parent_link" href='https://service.madxartwork.net/p/desain-2d3d.html'><span class="menuchildicon"></span>Desain Grafis Semarang</a></li>
+<li class="ttr_menu_items_parent"><a class="ttr_menu_items_parent_link" href='https://www.madxartwork.net/'><span class="menuchildicon"></span>Jasa Pembuatan Website Semarang</a></li>
+<li class="ttr_menu_items_parent"><a class="ttr_menu_items_parent_link" href='https://websitesemarang.madxartwork.net/toko-online/'><span class="menuchildicon"></span>Toko Online Semarang</a></li>
+<li class="ttr_menu_items_parent"><a class="ttr_menu_items_parent_link" href='https://websitesemarang.madxartwork.net/internet-online-marketingdigital-marketingsosial-mediapenjualan-online/'><span class="menuchildicon"></span>Online Marketing Semarang</a></li>
+    </nav>
